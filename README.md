@@ -1,2 +1,4 @@
 # odin_recipes
 This is a simple recipe website project written in HTML.  This project demonstrates basic understanding of HTML elements, folder structure, and GIT commands.
+
+I'm already familiar with HTML and folder structure, but my GIT skills are lacking for a hobby web developer who has been messing around with this stuff for a couple of years.  This project taught me the basics of using GIT commands in the terminal, such as check the status of files in the local repo (git status), staging the files for commits (git add), commiting the file changes with a message(git commit -m "Message"), and pushing the local repo to the remote repo (git push).
